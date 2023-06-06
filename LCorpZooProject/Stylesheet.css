@@ -1,0 +1,41 @@
+body.blur{
+    background-image:url("https://codehs.com/uploads/927ae5740ceddeee0c869033d2b1c499")
+}
+
+body.noblur{
+    background-image:url("https://codehs.com/uploads/fdaaf636f5cb33e2dfba4a68ab6dd865");
+}
+
+.LCfont{
+     color:#FFFB94;
+}
+
+.cross{
+    text-decoration: line-through
+}
+
+.LCLogo{
+    width:50px;
+    height:50px;
+}
+
+
+
+.carousel{
+    width:900px;
+    height:900px;
+}
+
+.whitetext{
+    color:White;
+    transition:color 0.5s, text-shadow 1s, background-color:0.5s;
+}
+
+.HoverText:hover{
+    color:#FFFB94;
+    text-shadow:2px 2px 5px #FFFB94;
+}
+
+.borderpurple{
+    border-color:Purple;
+}
